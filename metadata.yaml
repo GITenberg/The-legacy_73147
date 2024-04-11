@@ -1,0 +1,30 @@
+_repo: The-legacy_73147
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hank, Dick
+    gutenberg_agent_id: '56962'
+    url: http://www.gutenberg.org/2009/agents/56962
+description: ''
+gutenberg_issued: '2024-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73147'
+language: en
+pgterms:marc905: 20240225140459hank
+pgterms:marc906: '1961'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1961.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Apocalyptic fiction'
+- !lcc 'PS'
+- GITenberg
+title: The legacy
+url: http://www.gutenberg.org/ebooks/73147
