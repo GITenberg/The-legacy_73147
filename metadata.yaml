@@ -1,11 +1,16 @@
 _repo: The-legacy_73147
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73147-h/images/cover.jpg
 creator:
   author:
     agent_name: Hank, Dick
     gutenberg_agent_id: '56962'
     url: http://www.gutenberg.org/2009/agents/56962
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73147#The-legacy
 gutenberg_issued: '2024-03-11'
 gutenberg_type: Text
 identifiers:
